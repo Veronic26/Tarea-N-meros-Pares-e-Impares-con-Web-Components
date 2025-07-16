@@ -7,15 +7,13 @@ Este proyecto es una aplicación web interactiva desarrollada con **JavaScript m
 Aplicar conceptos de **programación modular** y uso de **componentes reutilizables** mediante el estándar de **Web Components** usando el ciclo de vida y el Shadow DOM.
 
 ##  Estructura del proyecto
-proyecto-par-impar/
-│
 ├── index.html ← Página principal del proyecto
 ├── components/ ← Componentes Web
 │ ├── input-range.js ← Componente para ingresar el rango
 │ └── par-impar-lista.js ← Componente para mostrar resultados
 ├── style/
 │ └── main.css ← Estilos globales con diseño celeste
-└── README.md ← Este archivo de documentación
+
 
 ## Funcionalidad
 

@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background: linear-gradient(to right, #b18bc7, #7c658a);
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.15);
+  color: #28004d;
+}
+
+h1 {
+  text-align: center;
+  color: #5c388b;
+  margin-bottom: 30px;
+}
+
+input-range, par-impar-lista {
+  display: block;
+  margin-bottom: 25px;
+  padding: 15px;
+  background-color: #ffffffcc;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
